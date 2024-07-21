@@ -1,0 +1,1 @@
+import{aa as r,ab as i,r as n}from"./index-50f3efe9.js";function a(e){e===void 0&&(e=r);var t=e===r?i:function(){return n.useContext(e)};return function(){var u=t(),s=u.store;return s}}var f=a();function v(e){e===void 0&&(e=r);var t=e===r?f:a(e);return function(){var u=t();return u.dispatch}}var d=v();export{d as u};
