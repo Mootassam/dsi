@@ -1,1 +1,0 @@
-import{j as e}from"./index-50f3efe9.js";import{S as s}from"./SubHeader-5f0af79d.js";function r(){return e.jsxs("div",{children:[e.jsx(s,{title:"Events",path:"/"}),e.jsxs("div",{className:"detaill__company",style:{whiteSpace:"pre-line"},children:[e.jsx("img",{src:"/images/events/1.jpg"}),e.jsx("img",{src:"/images/events/2.jpg"})]})]})}export{r as default};
